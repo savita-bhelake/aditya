@@ -1,0 +1,19 @@
+.nav {
+  background-color: bisque;
+  margin: 2px;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  text-decoration: none;
+  margin: 20px;
+  display: block;
+  color: black;
+}
+.dlink {
+  text-decoration: none;
+  color: aliceblue;
+  margin: 20px;
+}
